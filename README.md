@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 带下划线的验证码输入框
 
-![image](https://github.com/runningTeemo/VerificationCode/pin_enty/img/ezgif-2-5956fc188b66.gif )
+![image](https://raw.githubusercontent.com/runningTeemo/VerificationCode/master/img/ezgif-2-5956fc188b66.gif )
