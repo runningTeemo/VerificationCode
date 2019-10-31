@@ -8,6 +8,8 @@ class Options {
 	Color inputedUnderLineColor;
 	Color focusedColor;
 
+	static FocusNode currentFocus;
+
 	Options({
 		this.fontSize = 18.0,
 		this.fontColor = Colors.black,
